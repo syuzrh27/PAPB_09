@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24_white"/>
+    <item
+        android:id="@+id/nav_theater"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Theater"
+        android:icon="@drawable/baseline_theaters_24_white"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Profile"
+        android:icon="@drawable/baseline_account_circle_24_white"/>
+</menu>
